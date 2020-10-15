@@ -6,3 +6,5 @@ Verified discord bot developer with a love for music. Focusing on improving the 
 
 Currently working on commissions, and personal projects.
 Keen networking programmer, using raw sockets to create an online 2d battle royale in python.
+
+Offsite Developer for @Interbyte-Studios
